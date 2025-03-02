@@ -1,3 +1,5 @@
+import utils.transport
+import utils.session
 from textblob import TextBlob
 
 def read_arguments(file_path):
